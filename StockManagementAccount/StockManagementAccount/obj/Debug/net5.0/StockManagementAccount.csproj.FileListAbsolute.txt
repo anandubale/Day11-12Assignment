@@ -1,0 +1,16 @@
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\bin\Debug\net5.0\StockManagementAccount.exe
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\bin\Debug\net5.0\StockManagementAccount.deps.json
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\bin\Debug\net5.0\StockManagementAccount.runtimeconfig.json
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\bin\Debug\net5.0\StockManagementAccount.runtimeconfig.dev.json
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\bin\Debug\net5.0\StockManagementAccount.dll
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\bin\Debug\net5.0\ref\StockManagementAccount.dll
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\bin\Debug\net5.0\StockManagementAccount.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\StockManagementAccount.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\StockManagementAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\StockManagementAccount.AssemblyInfoInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\StockManagementAccount.AssemblyInfo.cs
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\StockManagementAccount.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\StockManagementAccount.dll
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\ref\StockManagementAccount.dll
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\StockManagementAccount.pdb
+C:\Users\anand\Desktop\Bridgelabz\Day11&12\StockManagementAccount\StockManagementAccount\obj\Debug\net5.0\StockManagementAccount.genruntimeconfig.cache
