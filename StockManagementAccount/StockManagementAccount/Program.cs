@@ -14,43 +14,23 @@ namespace StockManagementAccount
 
             //Logic->Calculate the value of each stock and the total value
             //Print the Stock Report.
-            Console.WriteLine("Enter 1 is you want to add another stock- \nEnter 2 if want to display existing stock- \nEnter 3 if you want to calculate tatal value of existing stocks- \n Enter Anythings if you want to Quite.");
-            var newshareprofile = new NewShareProfile();
-            while (true)
+            StockDetails stock = new StockDetails();
+            Console.WriteLine("Enter Number Of Stocks:-");
+            int NumberOfStocks = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= NumberOfStocks; i++)
             {
-                int option = int.Parse(Console.ReadLine());
-                switch (option)
-                {
-                    case 1:
+                Console.WriteLine("Enter ShareName: ");
+                string ShareName = Console.ReadLine();
 
-                        Console.WriteLine("Enter Share Name: ");
-                        string ShareName = Console.ReadLine();
+                Console.WriteLine("Enter Total Number Of Shares: ");
+                int NoOfShares = int.Parse(Console.ReadLine());
 
-                        Console.WriteLine("Enter Number Of Share: ");
-                        int NumberOfShare = int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Price Per Share: ");
+                int PricePerEachShare = int.Parse(Console.ReadLine());
 
-                        Console.WriteLine("Enter Price Per Share: ");
-                        int PricePerShare = int.Parse(Console.ReadLine());
-
-                        var newStock = new StockDetails(ShareName, NumberOfShare, PricePerShare);
-                        newshareprofile.AddNewStock(newStock);
-                        break;
-                    case 2:
-                        newshareprofile.Display();
-                        break;
-                    case 3:
-                        newshareprofile.ValueOfShare();
-                        break;
-                    case 4:
-                        return;
-                    default:
-                        Console.WriteLine("Invalid option");
-                        break;
-
-                }
-                Console.WriteLine("Enter 1 is you want to add another stock and \n Enter 2 if want to display existing stock \n Enter 3 if you want to calculate tatal value of existing stocks \n Enter Anythings if you want to Quite.");
-
+                stock.Stockvalue(NoOfShares, PricePerEachShare, ShareName);
             }
+        }
 
         }
     }
